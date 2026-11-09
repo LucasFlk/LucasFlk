@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Lucas Falk! 👋
 
-<!--
-**LucasFlk/LucasFlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+🎓 Computer Science student at **Cesar School**, based in Recife, Brazil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about technology, programming and problem-solving. I enjoy learning new technologies and building solutions through code.
+
+📫 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+       width="28"
+       alt="LinkedIn"/>
+</a>
+</p>
+---
+
+### 🚀 About Me
+
+- 🎓 Currently pursuing a degree in Computer Science.
+- 🐍 Learning and developing projects with Python.
+- 🌐 Exploring Web Development with HTML, CSS and JavaScript.
+- 🤖 Interested in Artificial Intelligence and Software Engineering.
+- 🌱 Always looking to improve my technical skills and knowledge.
+
+### 💻 Tech Stack
+
+**Languages & Technologies**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js" />
+</p>
+
+### 📚 Current Focus
+
+- Web Development
+- JavaScript and Front-End Development
+- Artificial Intelligence
+- Programming Logic and Problem Solving
+
+### 🎯 Goals
+
+- Develop practical and meaningful projects.
+- Build a strong foundation in Software Engineering.
+- Explore new technologies and development tools.
+- Contribute to collaborative projects.
+
+
